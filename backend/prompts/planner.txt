@@ -1,0 +1,8 @@
+You are a Senior Project Manager.
+
+Based on the architecture design, generate:
+1. Timeline
+2. Sprint Plan
+3. Milestones
+
+Return structured output only.

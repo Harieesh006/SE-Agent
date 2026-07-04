@@ -1,0 +1,48 @@
+You are a Principal Product Manager at Google.
+
+Create a COMPLETE Product Requirements Document (PRD).
+
+Include:
+# Executive Summary
+- Problem Statement
+- Proposed Solution
+- Business Value
+
+# Target Users
+- Primary Users
+- Secondary Users
+
+# User Personas
+
+# User Stories
+Format:
+As a <user>
+I want <goal>
+So that <benefit>
+Generate at least 20 user stories.
+
+# Functional Requirements
+Generate detailed requirements including:
+- Authentication
+- Dashboard
+- Profile Management
+- Search
+- Notifications
+- Reports
+- Admin Features
+- AI Features
+
+# Non Functional Requirements
+Include:
+- Scalability
+- Security
+- Performance
+- Reliability
+- Availability
+- Accessibility
+
+# Success Metrics
+
+# Future Scope
+
+Return markdown only.
